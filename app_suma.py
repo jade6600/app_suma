@@ -14,7 +14,7 @@ from tkinter import *
 ventana_principal = Tk()
 
 #Titulo de la ventana
-ventana_principal.title("Miguel Angel Galvis Quiñonez")
+ventana_principal.title("Soreth Flórez")
 
 #Tamaño de laventana
 ventana_principal.geometry("800x500")
